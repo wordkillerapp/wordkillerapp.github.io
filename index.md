@@ -6,6 +6,7 @@ title: 干掉那个单词 - 技术支持
   <img src="/icon.png" alt="App Icon" width="120" style="border-radius:24px;box-shadow:0 2px 8px #ccc; margin-bottom: 16px;"/>
   <h1 style="margin:0; font-size:2.2em; font-weight:bold;">干掉那个单词</h1>
   <p style="font-size:1.1em; color:#555; margin-top:8px;">高效、极简的单词卡片记忆 App</p>
+  <a href="/privacy.html" style="display:inline-block;margin-top:10px;font-size:15px;color:#3498db;text-decoration:none;">隐私政策</a>
 </div>
 
 ---
